@@ -1,0 +1,31 @@
+Bienvenue ! 
+
+Si toi aussi tu as envie de prendre part dans le futur du web,
+tu es dans le bon cours !
+
+Ce cours va t'apprendre le langage Go.
+
+Go est un langage compilé qui permet de créer des serveurs super-rapides !
+
+Le langage est simple et tellement efficace !
+
+Go permet de créer des applications qui supportent des milliards de requêtes sans flancher !
+
+Google, Dropbox, SpaceX, Reddit, Github, Adobe, ils l'utilisent tous !
+
+Alors arrête de perdre ton temps avec du Python, du Java ou du C,
+et prend part dans la révolution Go !
+
+Avec mon cours, 
+tu apprendras à utiliser Go en profondeur 
+et tu apprendras tous les concepts à connaître !
+
+Ensemble, 
+on va apprendre à créer des serveurs HTTP, TCP, WebSocket.
+On va créer des CLIs et des APIs avec Go.
+Et on va même créer une base de données !
+
+Quand vous aurez fini ce cours,
+Go n'aura aucun secret pour vous !
+
+Alors qu'attendez vous ?
