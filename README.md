@@ -1,2 +1,5 @@
-# go-cours
-Tous les fichiers du cours "Apprendre Go en profondeur"
+# Apprendre Go en profondeur :boom:
+
+> Merci d'avoir acheté ce cours sur Go, ici réside tous les fichiers du cours !  
+
+##### By Yanis HEDJEM :godmode:
